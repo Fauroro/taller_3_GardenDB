@@ -730,7 +730,7 @@ INSERT INTO detalle_pedido (codigo_producto, codigo_pedido, cantidad, precio_uni
 
 ### DER
 
-
+![DER_Garden_DB](https://github.com/Fauroro/taller_3_GardenDB/blob/main/DER_GardenDB.png?raw=true)
 
 ### Consultas sobre una tabla
 
